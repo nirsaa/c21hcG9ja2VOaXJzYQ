@@ -12,220 +12,49 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nirsa =====
-[1]Nirsa       |07:09:49 | 12-10-2026| login OK @znirsa | score=930 rank=6517
-[1]Nirsa       |07:09:49 | 12-10-2026| serverTime=2026-10-12T07:09:48.000Z local=2026-10-12T07:09:49.030Z
+[1]Nirsa       |07:33:57 | 13-10-2026| login OK @znirsa | score=1070 rank=5838
+[1]Nirsa       |07:33:57 | 13-10-2026| serverTime=2026-10-13T07:33:56.000Z local=2026-10-13T07:33:57.014Z
 --> [1]Nirsa menjalankan: Claim Daily
-[1]Nirsa       |07:09:50 | 12-10-2026| daily: OK +10 poin score=940
---> [1]Nirsa menjalankan: Auto All Tasks (7 pending)
-[1]Nirsa       |07:09:52 | 12-10-2026| [1/7] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znirsa/status/2109541648917982434
-[1]Nirsa       |07:09:52 | 12-10-2026| delay 10s...
-[1]Nirsa       |07:10:04 | 12-10-2026| [2/7] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znirsa/status/2109541574725205386
-[1]Nirsa       |07:10:04 | 12-10-2026| delay 10s...
-[1]Nirsa       |07:10:16 | 12-10-2026| [3/7] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Nirsa       |07:10:16 | 12-10-2026| delay 10s...
-[1]Nirsa       |07:10:29 | 12-10-2026| [4/7] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znirsa/status/2109541835649899043
-[1]Nirsa       |07:10:29 | 12-10-2026| delay 10s...
-[1]Nirsa       |07:10:41 | 12-10-2026| [5/7] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znirsa/status/2109541920893537766
-[1]Nirsa       |07:10:41 | 12-10-2026| delay 10s...
-[1]Nirsa       |07:10:53 | 12-10-2026| [6/7] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Nirsa       |07:10:53 | 12-10-2026| delay 10s...
-[1]Nirsa       |07:11:05 | 12-10-2026| [7/7] abf84ab9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znirsa/status/2109541768581256827
-[1]Nirsa       |07:11:05 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nirsa       |07:11:07 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/znirsa/status/2109542091737329324
+[1]Nirsa       |07:33:58 | 13-10-2026| daily: OK +10 poin score=1080
+--> [1]Nirsa menjalankan: Auto All Tasks (5 pending)
+[1]Nirsa       |07:33:59 | 13-10-2026| [1/5] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znirsa/status/2109910177032399637
+[1]Nirsa       |07:33:59 | 13-10-2026| delay 10s...
+[1]Nirsa       |07:34:11 | 13-10-2026| [2/5] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znirsa/status/2109910255989266666
+[1]Nirsa       |07:34:11 | 13-10-2026| delay 10s...
+[1]Nirsa       |07:34:24 | 13-10-2026| [3/5] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znirsa/status/2109910016871616163
+[1]Nirsa       |07:34:24 | 13-10-2026| delay 10s...
+[1]Nirsa       |07:34:36 | 13-10-2026| [4/5] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znirsa/status/2109910043241866597
+[1]Nirsa       |07:34:36 | 13-10-2026| delay 10s...
+[1]Nirsa       |07:34:48 | 13-10-2026| [5/5] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znirsa/status/2109910366688566129
+[1]Nirsa       |07:34:48 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nirsa       |07:34:49 | 13-10-2026| [1/1] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/znirsa/status/2109910333413249346
 --> [1]Nirsa menjalankan: Watch Anime
-[1]Nirsa       |07:11:08 | 12-10-2026| watch: 3 video belum completed: oshi-studio-product-film,oshi-first-journey,ep2
-[1]Nirsa       |07:11:08 | 12-10-2026| watch [1/3] farming oshi-studio-product-film...
-[1]Nirsa       |07:11:09 | 12-10-2026| watch oshi-studio-product-film: mulai dari 0 (record 55.0s diabaikan)
-[1]Nirsa       |07:11:09 | 12-10-2026| watch oshi-studio-product-film: 85% (54.98/64.00s)
-[1]Nirsa       |07:11:16 | 12-10-2026| watch oshi-studio-product-film: 85% (54.98/64.00s)
-[1]Nirsa       |07:11:26 | 12-10-2026| watch oshi-studio-product-film: 85% (54.98/64.00s)
-[1]Nirsa       |07:11:33 | 12-10-2026| watch oshi-studio-product-film: 85% (54.98/64.00s)
-[1]Nirsa       |07:11:39 | 12-10-2026| watch oshi-studio-product-film: 88% (56.67/64.00s)
-[1]Nirsa       |07:11:45 | 12-10-2026| watch oshi-studio-product-film: 97% (62.17/64.00s)
-[1]Nirsa       |07:11:45 | 12-10-2026| watch oshi-studio-product-film: COMPLETED (62.17/64.00s)
-[1]Nirsa       |07:11:50 | 12-10-2026| watch [2/3] farming oshi-first-journey...
-[1]Nirsa       |07:11:51 | 12-10-2026| watch oshi-first-journey: mulai dari 0 (record 56.7s diabaikan)
-[1]Nirsa       |07:11:52 | 12-10-2026| watch oshi-first-journey: 65% (56.71/87.00s)
-[1]Nirsa       |07:11:58 | 12-10-2026| watch oshi-first-journey: 65% (56.71/87.00s)
-[1]Nirsa       |07:12:04 | 12-10-2026| watch oshi-first-journey: 65% (56.71/87.00s)
-[1]Nirsa       |07:12:10 | 12-10-2026| watch oshi-first-journey: 65% (56.71/87.00s)
-[1]Nirsa       |07:12:17 | 12-10-2026| watch oshi-first-journey: 65% (56.71/87.00s)
-[1]Nirsa       |07:12:23 | 12-10-2026| watch oshi-first-journey: 65% (56.71/87.00s)
-[1]Nirsa       |07:12:29 | 12-10-2026| watch oshi-first-journey: 65% (56.71/87.00s)
-[1]Nirsa       |07:12:35 | 12-10-2026| watch oshi-first-journey: 65% (56.71/87.00s)
-[1]Nirsa       |07:12:42 | 12-10-2026| watch oshi-first-journey: 65% (56.71/87.00s)
-[1]Nirsa       |07:12:48 | 12-10-2026| watch oshi-first-journey: 65% (56.71/87.00s)
-[1]Nirsa       |07:12:54 | 12-10-2026| watch oshi-first-journey: 65% (56.71/87.00s)
-[1]Nirsa       |07:13:00 | 12-10-2026| watch oshi-first-journey: 70% (61.25/87.00s)
-[1]Nirsa       |07:13:07 | 12-10-2026| watch oshi-first-journey: 76% (66.82/87.00s)
-[1]Nirsa       |07:13:13 | 12-10-2026| watch oshi-first-journey: 84% (73.13/87.00s)
-[1]Nirsa       |07:13:20 | 12-10-2026| watch oshi-first-journey: 90% (78.82/87.00s)
-[1]Nirsa       |07:13:20 | 12-10-2026| watch oshi-first-journey: COMPLETED (78.82/87.00s)
-[1]Nirsa       |07:13:25 | 12-10-2026| watch [3/3] farming ep2...
-[1]Nirsa       |07:13:25 | 12-10-2026| watch ep2: mulai dari 0 (record 304.6s diabaikan)
-[1]Nirsa       |07:13:26 | 12-10-2026| watch ep2: 75% (304.56/406.00s)
-[1]Nirsa       |07:13:32 | 12-10-2026| watch ep2: 75% (304.56/406.00s)
-[1]Nirsa       |07:13:39 | 12-10-2026| watch ep2: 75% (304.56/406.00s)
-[1]Nirsa       |07:13:45 | 12-10-2026| watch ep2: 75% (304.56/406.00s)
-[1]Nirsa       |07:13:52 | 12-10-2026| watch ep2: 75% (304.56/406.00s)
-[1]Nirsa       |07:13:58 | 12-10-2026| watch ep2: 75% (304.56/406.00s)
-[1]Nirsa       |07:14:04 | 12-10-2026| watch ep2: 75% (304.56/406.00s)
-[1]Nirsa       |07:14:10 | 12-10-2026| watch ep2: 75% (305.08/406.00s)
-[1]Nirsa       |07:14:17 | 12-10-2026| watch ep2: 75% (305.08/406.00s)
-[1]Nirsa       |07:14:23 | 12-10-2026| watch ep2: 75% (305.08/406.00s)
-[1]Nirsa       |07:14:30 | 12-10-2026| watch ep2: 75% (305.08/406.00s)
-[1]Nirsa       |07:14:37 | 12-10-2026| watch ep2: 75% (305.08/406.00s)
-[1]Nirsa       |07:14:45 | 12-10-2026| watch ep2: 75% (305.08/406.00s)
-[1]Nirsa       |07:14:51 | 12-10-2026| watch ep2: 75% (305.08/406.00s)
-[1]Nirsa       |07:14:57 | 12-10-2026| watch ep2: 75% (305.08/406.00s)
-[1]Nirsa       |07:15:03 | 12-10-2026| watch ep2: 75% (305.30/406.00s)
-[1]Nirsa       |07:15:09 | 12-10-2026| watch ep2: 75% (305.30/406.00s)
-[1]Nirsa       |07:15:16 | 12-10-2026| watch ep2: 75% (305.30/406.00s)
-[1]Nirsa       |07:15:22 | 12-10-2026| watch ep2: 75% (307.61/406.00s)
-[1]Nirsa       |07:15:28 | 12-10-2026| watch ep2: 75% (307.61/406.00s)
-[1]Nirsa       |07:15:35 | 12-10-2026| watch ep2: 76% (309.17/406.00s)
-[1]Nirsa       |07:15:41 | 12-10-2026| watch ep2: 76% (309.42/406.00s)
-[1]Nirsa       |07:15:47 | 12-10-2026| watch ep2: 76% (309.42/406.00s)
-[1]Nirsa       |07:15:53 | 12-10-2026| watch ep2: 76% (309.42/406.00s)
-[1]Nirsa       |07:15:59 | 12-10-2026| watch ep2: 76% (310.47/406.00s)
-[1]Nirsa       |07:16:05 | 12-10-2026| watch ep2: 76% (310.47/406.00s)
-[1]Nirsa       |07:16:12 | 12-10-2026| watch ep2: 76% (310.47/406.00s)
-[1]Nirsa       |07:16:18 | 12-10-2026| watch ep2: 76% (310.47/406.00s)
-[1]Nirsa       |07:16:25 | 12-10-2026| watch ep2: 76% (310.47/406.00s)
-[1]Nirsa       |07:16:32 | 12-10-2026| watch ep2: 76% (310.78/406.00s)
-[1]Nirsa       |07:16:39 | 12-10-2026| watch ep2: 76% (310.78/406.00s)
-[1]Nirsa       |07:16:45 | 12-10-2026| watch ep2: 76% (312.12/406.00s)
-[1]Nirsa       |07:16:51 | 12-10-2026| watch ep2: 76% (312.12/406.00s)
-[1]Nirsa       |07:16:57 | 12-10-2026| watch ep2: 76% (312.12/406.00s)
-[1]Nirsa       |07:17:03 | 12-10-2026| watch ep2: 76% (312.12/406.00s)
-[1]Nirsa       |07:17:10 | 12-10-2026| watch ep2: 76% (312.12/406.00s)
-[1]Nirsa       |07:17:16 | 12-10-2026| watch ep2: 76% (312.12/406.00s)
-[1]Nirsa       |07:17:22 | 12-10-2026| watch ep2: 76% (312.12/406.00s)
-[1]Nirsa       |07:17:28 | 12-10-2026| watch ep2: 76% (312.12/406.00s)
-[1]Nirsa       |07:17:35 | 12-10-2026| watch ep2: 77% (312.90/406.00s)
-[1]Nirsa       |07:17:41 | 12-10-2026| watch ep2: 77% (312.90/406.00s)
-[1]Nirsa       |07:17:47 | 12-10-2026| watch ep2: 77% (312.90/406.00s)
-[1]Nirsa       |07:17:53 | 12-10-2026| watch ep2: 77% (312.90/406.00s)
-[1]Nirsa       |07:18:00 | 12-10-2026| watch ep2: 77% (312.90/406.00s)
-[1]Nirsa       |07:18:06 | 12-10-2026| watch ep2: 77% (312.90/406.00s)
-[1]Nirsa       |07:18:12 | 12-10-2026| watch ep2: 77% (312.90/406.00s)
-[1]Nirsa       |07:18:18 | 12-10-2026| watch ep2: 77% (312.90/406.00s)
-[1]Nirsa       |07:18:24 | 12-10-2026| watch ep2: 77% (313.03/406.00s)
-[1]Nirsa       |07:18:31 | 12-10-2026| watch ep2: 77% (313.03/406.00s)
-[1]Nirsa       |07:18:37 | 12-10-2026| watch ep2: 77% (313.03/406.00s)
-[1]Nirsa       |07:18:43 | 12-10-2026| watch ep2: 77% (313.03/406.00s)
-[1]Nirsa       |07:18:50 | 12-10-2026| watch ep2: 77% (313.03/406.00s)
-[1]Nirsa       |07:18:57 | 12-10-2026| watch ep2: 77% (313.03/406.00s)
-[1]Nirsa       |07:19:03 | 12-10-2026| watch ep2: 77% (313.03/406.00s)
-[1]Nirsa       |07:19:09 | 12-10-2026| watch ep2: 77% (314.61/406.00s)
-[1]Nirsa       |07:19:15 | 12-10-2026| watch ep2: 77% (314.61/406.00s)
-[1]Nirsa       |07:19:22 | 12-10-2026| watch ep2: 78% (319.07/406.00s)
-[1]Nirsa       |07:19:28 | 12-10-2026| watch ep2: 80% (325.12/406.00s)
-[1]Nirsa       |07:19:34 | 12-10-2026| watch ep2: 81% (330.88/406.00s)
-[1]Nirsa       |07:19:40 | 12-10-2026| watch ep2: 82% (336.41/406.00s)
-[1]Nirsa       |07:19:47 | 12-10-2026| watch ep2: 84% (341.99/406.00s)
-[1]Nirsa       |07:19:53 | 12-10-2026| watch ep2: 85% (347.48/406.00s)
-[1]Nirsa       |07:19:59 | 12-10-2026| watch ep2: 86% (353.00/406.00s)
-[1]Nirsa       |07:20:05 | 12-10-2026| watch ep2: 88% (358.53/406.00s)
-[1]Nirsa       |07:20:12 | 12-10-2026| watch ep2: 89% (364.02/406.00s)
-[1]Nirsa       |07:20:19 | 12-10-2026| watch ep2: 91% (370.82/406.00s)
-[1]Nirsa       |07:20:19 | 12-10-2026| watch ep2: COMPLETED (370.82/406.00s)
+[1]Nirsa       |07:34:50 | 13-10-2026| watch: semua video sudah completed
 --> [1]Nirsa menjalankan: Read Article
-[1]Nirsa       |07:20:20 | 12-10-2026| news: 24/24 artikel selesai dibaca
-[1]Nirsa       |07:20:21 | 12-10-2026| mint eligibility: {"userId":"2010889205438922752","youtube":{"url":"https://www.youtube.com/@znirsa","status":"submitted","revision":"83440d99-038f-458e-950a-c631044e5cce","submittedAt":1791684689,"reviewedAt":17916914
-[1]Nirsa       |07:20:21 | 12-10-2026| news: semua artikel sudah dibaca
+[1]Nirsa       |07:34:51 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Nirsa       |07:34:51 | 13-10-2026| mint eligibility: {"userId":"2010889205438922752","youtube":{"url":"https://www.youtube.com/@znirsa","status":"submitted","revision":"83440d99-038f-458e-950a-c631044e5cce","submittedAt":1791684689,"reviewedAt":17916914
+[1]Nirsa       |07:34:51 | 13-10-2026| news: semua artikel sudah dibaca
 --> [1]Nirsa menjalankan: Quiz Anime
-[1]Nirsa       |07:20:24 | 12-10-2026| quiz ep1: BENAR (0) +10 poin
-[1]Nirsa       |07:20:29 | 12-10-2026| quiz ep2: BENAR (1) +10 poin
-[1]Nirsa       |07:20:32 | 12-10-2026| quiz ep3: sudah dijawab
-[1]Nirsa       |07:20:32 | 12-10-2026| quiz ep4: sudah dijawab
-[1]Nirsa       |07:20:32 | 12-10-2026| quiz ep5: sudah dijawab
-[1]Nirsa       |07:20:32 | 12-10-2026| quiz ep6: sudah dijawab
+[1]Nirsa       |07:34:52 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Nirsa       |07:34:52 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Nirsa       |07:34:52 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Nirsa       |07:34:52 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Nirsa       |07:34:52 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Nirsa       |07:34:52 | 13-10-2026| quiz ep6: sudah dijawab
 --> [1]Nirsa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nirsa       |07:20:35 | 12-10-2026| music memutar "神様みたいに" (254s)...
-[1]Nirsa       |07:20:46 | 12-10-2026| music "神様みたいに": 3% (9.0054/254s)
-[1]Nirsa       |07:20:57 | 12-10-2026| music "神様みたいに": 7% (19.1322/254s)
-[1]Nirsa       |07:21:08 | 12-10-2026| music "神様みたいに": 11% (29.1456/254s)
-[1]Nirsa       |07:21:20 | 12-10-2026| music "神様みたいに": 15% (39.175200000000004/254s)
-[1]Nirsa       |07:21:31 | 12-10-2026| music "神様みたいに": 19% (49.204800000000006/254s)
-[1]Nirsa       |07:21:42 | 12-10-2026| music "神様みたいに": 23% (59.27940000000001/254s)
-[1]Nirsa       |07:21:54 | 12-10-2026| music "神様みたいに": 27% (69.47730000000001/254s)
-[1]Nirsa       |07:22:05 | 12-10-2026| music "神様みたいに": 31% (79.82820000000001/254s)
-[1]Nirsa       |07:22:16 | 12-10-2026| music "神様みたいに": 35% (89.83080000000001/254s)
-[1]Nirsa       |07:22:27 | 12-10-2026| music "神様みたいに": 39% (99.882/254s)
-[1]Nirsa       |07:22:38 | 12-10-2026| music "神様みたいに": 43% (109.90440000000001/254s)
-[1]Nirsa       |07:22:50 | 12-10-2026| music "神様みたいに": 47% (120.114/254s)
-[1]Nirsa       |07:23:01 | 12-10-2026| music "神様みたいに": 51% (130.3659/254s)
-[1]Nirsa       |07:23:12 | 12-10-2026| music "神様みたいに": 55% (140.51340000000002/254s)
-[1]Nirsa       |07:23:24 | 12-10-2026| music "神様みたいに": 59% (150.4926/254s)
-[1]Nirsa       |07:23:35 | 12-10-2026| music "神様みたいに": 63% (160.93710000000002/254s)
-[1]Nirsa       |07:23:47 | 12-10-2026| music "神様みたいに": 67% (170.92800000000003/254s)
-[1]Nirsa       |07:23:58 | 12-10-2026| music "神様みたいに": 71% (181.61730000000003/254s)
-[1]Nirsa       |07:24:09 | 12-10-2026| music "神様みたいに": 75% (191.60100000000003/254s)
-[1]Nirsa       |07:24:20 | 12-10-2026| music "神様みたいに": 79% (201.80250000000004/254s)
-[1]Nirsa       |07:24:32 | 12-10-2026| music "神様みたいに": 83% (211.99140000000003/254s)
-[1]Nirsa       |07:24:32 | 12-10-2026| music "神様みたいに": selesai 211.99140000000003s
-[1]Nirsa       |07:24:35 | 12-10-2026| music memutar "せーので、飛ぼう！" (269s)...
-[1]Nirsa       |07:24:46 | 12-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
-[1]Nirsa       |07:24:57 | 12-10-2026| music "せーので、飛ぼう！": 7% (19.2159/269s)
-[1]Nirsa       |07:25:09 | 12-10-2026| music "せーので、飛ぼう！": 10% (29.265300000000003/269s)
-[1]Nirsa       |07:25:20 | 12-10-2026| music "せーので、飛ぼう！": 14% (39.409200000000006/269s)
-[1]Nirsa       |07:25:31 | 12-10-2026| music "せーので、飛ぼう！": 18% (49.5018/269s)
-[1]Nirsa       |07:25:42 | 12-10-2026| music "せーので、飛ぼう！": 22% (59.495400000000004/269s)
-[1]Nirsa       |07:25:53 | 12-10-2026| music "せーので、飛ぼう！": 25% (69.5142/269s)
-[1]Nirsa       |07:26:04 | 12-10-2026| music "せーので、飛ぼう！": 29% (79.5249/269s)
-[1]Nirsa       |07:26:15 | 12-10-2026| music "せーので、飛ぼう！": 33% (89.5167/269s)
-[1]Nirsa       |07:26:27 | 12-10-2026| music "せーので、飛ぼう！": 37% (99.5553/269s)
-[1]Nirsa       |07:26:38 | 12-10-2026| music "せーので、飛ぼう！": 40% (109.7442/269s)
-[1]Nirsa       |07:26:49 | 12-10-2026| music "せーので、飛ぼう！": 44% (120.0753/269s)
-[1]Nirsa       |07:27:01 | 12-10-2026| music "せーので、飛ぼう！": 48% (130.0707/269s)
-[1]Nirsa       |07:27:12 | 12-10-2026| music "せーので、飛ぼう！": 52% (140.07059999999998/269s)
-[1]Nirsa       |07:27:23 | 12-10-2026| music "せーので、飛ぼう！": 55% (150.2514/269s)
-[1]Nirsa       |07:27:35 | 12-10-2026| music "せーので、飛ぼう！": 59% (160.3476/269s)
-[1]Nirsa       |07:27:46 | 12-10-2026| music "せーので、飛ぼう！": 63% (170.7732/269s)
-[1]Nirsa       |07:27:58 | 12-10-2026| music "せーので、飛ぼう！": 67% (181.1781/269s)
-[1]Nirsa       |07:28:09 | 12-10-2026| music "せーので、飛ぼう！": 71% (191.75220000000002/269s)
-[1]Nirsa       |07:28:20 | 12-10-2026| music "せーので、飛ぼう！": 75% (201.75660000000002/269s)
-[1]Nirsa       |07:28:31 | 12-10-2026| music "せーので、飛ぼう！": 78% (211.77450000000002/269s)
-[1]Nirsa       |07:28:43 | 12-10-2026| music "せーので、飛ぼう！": 82% (221.75730000000001/269s)
-[1]Nirsa       |07:28:44 | 12-10-2026| music "せーので、飛ぼう！": selesai 221.75730000000001s
-[1]Nirsa       |07:28:46 | 12-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
-[1]Nirsa       |07:28:57 | 12-10-2026| music "ON CHAIN NEXUS": 3% (9.0045/276s)
-[1]Nirsa       |07:29:08 | 12-10-2026| music "ON CHAIN NEXUS": 6% (19.0107/276s)
-[1]Nirsa       |07:29:20 | 12-10-2026| music "ON CHAIN NEXUS": 10% (29.1177/276s)
-[1]Nirsa       |07:29:31 | 12-10-2026| music "ON CHAIN NEXUS": 14% (39.1356/276s)
-[1]Nirsa       |07:29:42 | 12-10-2026| music "ON CHAIN NEXUS": 17% (49.378499999999995/276s)
-[1]Nirsa       |07:29:53 | 12-10-2026| music "ON CHAIN NEXUS": 21% (59.37479999999999/276s)
-[1]Nirsa       |07:30:04 | 12-10-2026| music "ON CHAIN NEXUS": 25% (69.53399999999999/276s)
-[1]Nirsa       |07:30:16 | 12-10-2026| music "ON CHAIN NEXUS": 28% (79.52399999999999/276s)
-[1]Nirsa       |07:30:27 | 12-10-2026| music "ON CHAIN NEXUS": 32% (89.59859999999999/276s)
-[1]Nirsa       |07:30:38 | 12-10-2026| music "ON CHAIN NEXUS": 36% (99.71459999999999/276s)
-[1]Nirsa       |07:30:49 | 12-10-2026| music "ON CHAIN NEXUS": 39% (109.88369999999999/276s)
-[1]Nirsa       |07:31:01 | 12-10-2026| music "ON CHAIN NEXUS": 43% (119.9331/276s)
-[1]Nirsa       |07:31:13 | 12-10-2026| music "ON CHAIN NEXUS": 47% (130.6827/276s)
-[1]Nirsa       |07:31:25 | 12-10-2026| music "ON CHAIN NEXUS": 51% (140.96970000000002/276s)
-[1]Nirsa       |07:31:36 | 12-10-2026| music "ON CHAIN NEXUS": 55% (152.03520000000003/276s)
-[1]Nirsa       |07:31:47 | 12-10-2026| music "ON CHAIN NEXUS": 58% (162.10260000000002/276s)
-[1]Nirsa       |07:31:59 | 12-10-2026| music "ON CHAIN NEXUS": 62% (172.11780000000002/276s)
-[1]Nirsa       |07:32:11 | 12-10-2026| music "ON CHAIN NEXUS": 66% (182.5749/276s)
-[1]Nirsa       |07:32:23 | 12-10-2026| music "ON CHAIN NEXUS": 69% (193.15890000000002/276s)
-[1]Nirsa       |07:32:35 | 12-10-2026| music "ON CHAIN NEXUS": 73% (203.89860000000002/276s)
-[1]Nirsa       |07:32:47 | 12-10-2026| music "ON CHAIN NEXUS": 78% (215.39880000000002/276s)
-[1]Nirsa       |07:32:58 | 12-10-2026| music "ON CHAIN NEXUS": 81% (225.5157/276s)
-[1]Nirsa       |07:32:58 | 12-10-2026| music "ON CHAIN NEXUS": selesai 225.5157s
-[1]Nirsa       |07:32:59 | 12-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nirsa       |07:33:01 | 12-10-2026| mission music-listens-10: CLAIM OK +10 poin
-[1]Nirsa       |07:33:05 | 12-10-2026| mission music-minutes-30: CLAIM OK +10 poin
-[1]Nirsa       |07:33:10 | 12-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+[1]Nirsa       |07:34:54 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nirsa       |07:34:54 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Nirsa       |07:34:54 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nirsa       |07:34:54 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nirsa menjalankan: Claim Missions
-[1]Nirsa       |07:33:13 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Nirsa       |07:33:13 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nirsa       |07:33:13 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nirsa       |07:34:55 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Nirsa       |07:34:55 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nirsa       |07:34:55 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nirsa menjalankan: Check Eligibility
 
 --- eligibility [1]Nirsa ---
-  @znirsa | score=930 rank=6517
-  tasks    [##################--] 72/79
+  @znirsa | score=1070 rank=5838
+  tasks    [###################-] 73/78
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -236,251 +65,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nirsa menjalankan: Read Manga
-[1]Nirsa       |07:33:17 | 12-10-2026| manga: 13/13 chapter belum completed
-[1]Nirsa       |07:33:17 | 12-10-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Nirsa       |07:33:23 | 12-10-2026| manga ch1 (1): page 1/19 (5%) 0s
-[1]Nirsa       |07:33:28 | 12-10-2026| manga ch1 (1): page 2/19 (10%) 5s
-[1]Nirsa       |07:33:33 | 12-10-2026| manga ch1 (1): page 3/19 (15%) 10s
-[1]Nirsa       |07:33:38 | 12-10-2026| manga ch1 (1): page 4/19 (21%) 15s
-[1]Nirsa       |07:33:42 | 12-10-2026| manga ch1 (1): page 5/19 (26%) 20s
-[1]Nirsa       |07:33:47 | 12-10-2026| manga ch1 (1): page 6/19 (31%) 24s
-[1]Nirsa       |07:33:52 | 12-10-2026| manga ch1 (1): page 7/19 (36%) 29s
-[1]Nirsa       |07:33:56 | 12-10-2026| manga ch1 (1): page 8/19 (42%) 34s
-[1]Nirsa       |07:34:01 | 12-10-2026| manga ch1 (1): page 9/19 (47%) 38s
-[1]Nirsa       |07:34:06 | 12-10-2026| manga ch1 (1): page 10/19 (52%) 43s
-[1]Nirsa       |07:34:10 | 12-10-2026| manga ch1 (1): page 11/19 (57%) 48s
-[1]Nirsa       |07:34:15 | 12-10-2026| manga ch1 (1): page 12/19 (63%) 52s
-[1]Nirsa       |07:34:19 | 12-10-2026| manga ch1 (1): page 13/19 (68%) 57s
-[1]Nirsa       |07:34:25 | 12-10-2026| manga ch1 (1): page 14/19 (73%) 61s
-[1]Nirsa       |07:34:29 | 12-10-2026| manga ch1 (1): page 15/19 (78%) 67s
-[1]Nirsa       |07:34:34 | 12-10-2026| manga ch1 (1): page 16/19 (84%) 71s
-[1]Nirsa       |07:34:39 | 12-10-2026| manga ch1 (1): page 17/19 (89%) 76s
-[1]Nirsa       |07:34:44 | 12-10-2026| manga ch1 (1): page 18/19 (94%) 81s
-[1]Nirsa       |07:34:48 | 12-10-2026| manga ch1 (1): page 19/19 (99%) 86s
-[1]Nirsa       |07:34:53 | 12-10-2026| manga ch1 (1): COMPLETED
-[1]Nirsa       |07:34:56 | 12-10-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Nirsa       |07:35:02 | 12-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
-[1]Nirsa       |07:35:06 | 12-10-2026| manga ch2 (450001): page 2/18 (11%) 5s
-[1]Nirsa       |07:35:11 | 12-10-2026| manga ch2 (450001): page 3/18 (16%) 9s
-[1]Nirsa       |07:35:16 | 12-10-2026| manga ch2 (450001): page 4/18 (22%) 14s
-[1]Nirsa       |07:35:21 | 12-10-2026| manga ch2 (450001): page 5/18 (27%) 19s
-[1]Nirsa       |07:35:25 | 12-10-2026| manga ch2 (450001): page 6/18 (33%) 24s
-[1]Nirsa       |07:35:31 | 12-10-2026| manga ch2 (450001): page 7/18 (38%) 28s
-[1]Nirsa       |07:35:35 | 12-10-2026| manga ch2 (450001): page 8/18 (44%) 34s
-[1]Nirsa       |07:35:40 | 12-10-2026| manga ch2 (450001): page 9/18 (50%) 38s
-[1]Nirsa       |07:35:45 | 12-10-2026| manga ch2 (450001): page 10/18 (55%) 43s
-[1]Nirsa       |07:35:49 | 12-10-2026| manga ch2 (450001): page 11/18 (61%) 48s
-[1]Nirsa       |07:35:54 | 12-10-2026| manga ch2 (450001): page 12/18 (66%) 52s
-[1]Nirsa       |07:36:00 | 12-10-2026| manga ch2 (450001): page 13/18 (72%) 57s
-[1]Nirsa       |07:36:04 | 12-10-2026| manga ch2 (450001): page 14/18 (77%) 63s
-[1]Nirsa       |07:36:09 | 12-10-2026| manga ch2 (450001): page 15/18 (83%) 67s
-[1]Nirsa       |07:36:14 | 12-10-2026| manga ch2 (450001): page 16/18 (88%) 72s
-[1]Nirsa       |07:36:19 | 12-10-2026| manga ch2 (450001): page 17/18 (94%) 77s
-[1]Nirsa       |07:36:23 | 12-10-2026| manga ch2 (450001): page 18/18 (99%) 82s
-[1]Nirsa       |07:36:28 | 12-10-2026| manga ch2 (450001): COMPLETED
-[1]Nirsa       |07:36:31 | 12-10-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Nirsa       |07:36:37 | 12-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
-[1]Nirsa       |07:36:41 | 12-10-2026| manga ch3 (2160001): page 2/17 (11%) 5s
-[1]Nirsa       |07:36:46 | 12-10-2026| manga ch3 (2160001): page 3/17 (17%) 9s
-[1]Nirsa       |07:36:51 | 12-10-2026| manga ch3 (2160001): page 4/17 (23%) 14s
-[1]Nirsa       |07:36:55 | 12-10-2026| manga ch3 (2160001): page 5/17 (29%) 19s
-[1]Nirsa       |07:37:00 | 12-10-2026| manga ch3 (2160001): page 6/17 (35%) 23s
-[1]Nirsa       |07:37:04 | 12-10-2026| manga ch3 (2160001): page 7/17 (41%) 28s
-[1]Nirsa       |07:37:09 | 12-10-2026| manga ch3 (2160001): page 8/17 (47%) 32s
-[1]Nirsa       |07:37:14 | 12-10-2026| manga ch3 (2160001): page 9/17 (52%) 37s
-[1]Nirsa       |07:37:19 | 12-10-2026| manga ch3 (2160001): page 10/17 (58%) 42s
-[1]Nirsa       |07:37:24 | 12-10-2026| manga ch3 (2160001): page 11/17 (64%) 47s
-[1]Nirsa       |07:37:28 | 12-10-2026| manga ch3 (2160001): page 12/17 (70%) 52s
-[1]Nirsa       |07:37:34 | 12-10-2026| manga ch3 (2160001): page 13/17 (76%) 56s
-[1]Nirsa       |07:37:39 | 12-10-2026| manga ch3 (2160001): page 14/17 (82%) 62s
-[1]Nirsa       |07:37:44 | 12-10-2026| manga ch3 (2160001): page 15/17 (88%) 67s
-[1]Nirsa       |07:37:49 | 12-10-2026| manga ch3 (2160001): page 16/17 (94%) 72s
-[1]Nirsa       |07:37:53 | 12-10-2026| manga ch3 (2160001): page 17/17 (99%) 77s
-[1]Nirsa       |07:37:59 | 12-10-2026| manga ch3 (2160001): COMPLETED
-[1]Nirsa       |07:38:02 | 12-10-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Nirsa       |07:38:08 | 12-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
-[1]Nirsa       |07:38:12 | 12-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
-[1]Nirsa       |07:38:17 | 12-10-2026| manga ch4 (2400001): page 3/17 (17%) 10s
-[1]Nirsa       |07:38:22 | 12-10-2026| manga ch4 (2400001): page 4/17 (23%) 14s
-[1]Nirsa       |07:38:27 | 12-10-2026| manga ch4 (2400001): page 5/17 (29%) 19s
-[1]Nirsa       |07:38:31 | 12-10-2026| manga ch4 (2400001): page 6/17 (35%) 24s
-[1]Nirsa       |07:38:36 | 12-10-2026| manga ch4 (2400001): page 7/17 (41%) 29s
-[1]Nirsa       |07:38:41 | 12-10-2026| manga ch4 (2400001): page 8/17 (47%) 33s
-[1]Nirsa       |07:38:46 | 12-10-2026| manga ch4 (2400001): page 9/17 (52%) 38s
-[1]Nirsa       |07:38:50 | 12-10-2026| manga ch4 (2400001): page 10/17 (58%) 43s
-[1]Nirsa       |07:38:55 | 12-10-2026| manga ch4 (2400001): page 11/17 (64%) 48s
-[1]Nirsa       |07:39:00 | 12-10-2026| manga ch4 (2400001): page 12/17 (70%) 52s
-[1]Nirsa       |07:39:05 | 12-10-2026| manga ch4 (2400001): page 13/17 (76%) 57s
-[1]Nirsa       |07:39:09 | 12-10-2026| manga ch4 (2400001): page 14/17 (82%) 62s
-[1]Nirsa       |07:39:14 | 12-10-2026| manga ch4 (2400001): page 15/17 (88%) 66s
-[1]Nirsa       |07:39:19 | 12-10-2026| manga ch4 (2400001): page 16/17 (94%) 71s
-[1]Nirsa       |07:39:23 | 12-10-2026| manga ch4 (2400001): page 17/17 (99%) 76s
-[1]Nirsa       |07:39:29 | 12-10-2026| manga ch4 (2400001): COMPLETED
-[1]Nirsa       |07:39:32 | 12-10-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Nirsa       |07:39:38 | 12-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
-[1]Nirsa       |07:39:43 | 12-10-2026| manga ch5 (2490001): page 2/18 (11%) 5s
-[1]Nirsa       |07:39:47 | 12-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
-[1]Nirsa       |07:39:52 | 12-10-2026| manga ch5 (2490001): page 4/18 (22%) 14s
-[1]Nirsa       |07:39:57 | 12-10-2026| manga ch5 (2490001): page 5/18 (27%) 19s
-[1]Nirsa       |07:40:02 | 12-10-2026| manga ch5 (2490001): page 6/18 (33%) 24s
-[1]Nirsa       |07:40:07 | 12-10-2026| manga ch5 (2490001): page 7/18 (38%) 29s
-[1]Nirsa       |07:40:12 | 12-10-2026| manga ch5 (2490001): page 8/18 (44%) 34s
-[1]Nirsa       |07:40:17 | 12-10-2026| manga ch5 (2490001): page 9/18 (50%) 39s
-[1]Nirsa       |07:40:22 | 12-10-2026| manga ch5 (2490001): page 10/18 (55%) 44s
-[1]Nirsa       |07:40:26 | 12-10-2026| manga ch5 (2490001): page 11/18 (61%) 49s
-[1]Nirsa       |07:40:31 | 12-10-2026| manga ch5 (2490001): page 12/18 (66%) 53s
-[1]Nirsa       |07:40:36 | 12-10-2026| manga ch5 (2490001): page 13/18 (72%) 58s
-[1]Nirsa       |07:40:41 | 12-10-2026| manga ch5 (2490001): page 14/18 (77%) 63s
-[1]Nirsa       |07:40:45 | 12-10-2026| manga ch5 (2490001): page 15/18 (83%) 67s
-[1]Nirsa       |07:40:50 | 12-10-2026| manga ch5 (2490001): page 16/18 (88%) 72s
-[1]Nirsa       |07:40:55 | 12-10-2026| manga ch5 (2490001): page 17/18 (94%) 77s
-[1]Nirsa       |07:41:00 | 12-10-2026| manga ch5 (2490001): page 18/18 (99%) 81s
-[1]Nirsa       |07:41:04 | 12-10-2026| manga ch5 (2490001): COMPLETED
-[1]Nirsa       |07:41:07 | 12-10-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Nirsa       |07:41:13 | 12-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
-[1]Nirsa       |07:41:18 | 12-10-2026| manga ch6 (2610001): page 2/17 (11%) 5s
-[1]Nirsa       |07:41:23 | 12-10-2026| manga ch6 (2610001): page 3/17 (17%) 10s
-[1]Nirsa       |07:41:31 | 12-10-2026| manga ch6 (2610001): page 4/17 (23%) 15s
-[1]Nirsa       |07:41:36 | 12-10-2026| manga ch6 (2610001): page 5/17 (29%) 23s
-[1]Nirsa       |07:41:41 | 12-10-2026| manga ch6 (2610001): page 6/17 (35%) 27s
-[1]Nirsa       |07:41:45 | 12-10-2026| manga ch6 (2610001): page 7/17 (41%) 32s
-[1]Nirsa       |07:41:51 | 12-10-2026| manga ch6 (2610001): page 8/17 (47%) 37s
-[1]Nirsa       |07:41:55 | 12-10-2026| manga ch6 (2610001): page 9/17 (52%) 42s
-[1]Nirsa       |07:42:01 | 12-10-2026| manga ch6 (2610001): page 10/17 (58%) 47s
-[1]Nirsa       |07:42:05 | 12-10-2026| manga ch6 (2610001): page 11/17 (64%) 52s
-[1]Nirsa       |07:42:10 | 12-10-2026| manga ch6 (2610001): page 12/17 (70%) 57s
-[1]Nirsa       |07:42:15 | 12-10-2026| manga ch6 (2610001): page 13/17 (76%) 61s
-[1]Nirsa       |07:42:20 | 12-10-2026| manga ch6 (2610001): page 14/17 (82%) 66s
-[1]Nirsa       |07:42:24 | 12-10-2026| manga ch6 (2610001): page 15/17 (88%) 71s
-[1]Nirsa       |07:42:29 | 12-10-2026| manga ch6 (2610001): page 16/17 (94%) 76s
-[1]Nirsa       |07:42:35 | 12-10-2026| manga ch6 (2610001): page 17/17 (99%) 80s
-[1]Nirsa       |07:42:40 | 12-10-2026| manga ch6 (2610001): COMPLETED
-[1]Nirsa       |07:42:43 | 12-10-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Nirsa       |07:42:49 | 12-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
-[1]Nirsa       |07:42:53 | 12-10-2026| manga ch1 (180003): page 2/21 (9%) 5s
-[1]Nirsa       |07:42:58 | 12-10-2026| manga ch1 (180003): page 3/21 (14%) 10s
-[1]Nirsa       |07:43:03 | 12-10-2026| manga ch1 (180003): page 4/21 (19%) 14s
-[1]Nirsa       |07:43:08 | 12-10-2026| manga ch1 (180003): page 5/21 (23%) 19s
-[1]Nirsa       |07:43:13 | 12-10-2026| manga ch1 (180003): page 6/21 (28%) 24s
-[1]Nirsa       |07:43:18 | 12-10-2026| manga ch1 (180003): page 7/21 (33%) 29s
-[1]Nirsa       |07:43:23 | 12-10-2026| manga ch1 (180003): page 8/21 (38%) 34s
-[1]Nirsa       |07:43:27 | 12-10-2026| manga ch1 (180003): page 9/21 (42%) 39s
-[1]Nirsa       |07:43:32 | 12-10-2026| manga ch1 (180003): page 10/21 (47%) 43s
-[1]Nirsa       |07:43:37 | 12-10-2026| manga ch1 (180003): page 11/21 (52%) 48s
-[1]Nirsa       |07:43:41 | 12-10-2026| manga ch1 (180003): page 12/21 (57%) 53s
-[1]Nirsa       |07:43:46 | 12-10-2026| manga ch1 (180003): page 13/21 (61%) 57s
-[1]Nirsa       |07:43:51 | 12-10-2026| manga ch1 (180003): page 14/21 (66%) 62s
-[1]Nirsa       |07:43:56 | 12-10-2026| manga ch1 (180003): page 15/21 (71%) 67s
-[1]Nirsa       |07:44:01 | 12-10-2026| manga ch1 (180003): page 16/21 (76%) 73s
-[1]Nirsa       |07:44:06 | 12-10-2026| manga ch1 (180003): page 17/21 (80%) 77s
-[1]Nirsa       |07:44:10 | 12-10-2026| manga ch1 (180003): page 18/21 (85%) 82s
-[1]Nirsa       |07:44:15 | 12-10-2026| manga ch1 (180003): page 19/21 (90%) 86s
-[1]Nirsa       |07:44:20 | 12-10-2026| manga ch1 (180003): page 20/21 (95%) 91s
-[1]Nirsa       |07:44:25 | 12-10-2026| manga ch1 (180003): page 21/21 (99%) 96s
-[1]Nirsa       |07:44:30 | 12-10-2026| manga ch1 (180003): COMPLETED
-[1]Nirsa       |07:44:33 | 12-10-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Nirsa       |07:44:38 | 12-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
-[1]Nirsa       |07:44:43 | 12-10-2026| manga ch2 (990005): page 2/18 (11%) 5s
-[1]Nirsa       |07:44:47 | 12-10-2026| manga ch2 (990005): page 3/18 (16%) 9s
-[1]Nirsa       |07:44:52 | 12-10-2026| manga ch2 (990005): page 4/18 (22%) 14s
-[1]Nirsa       |07:44:57 | 12-10-2026| manga ch2 (990005): page 5/18 (27%) 18s
-[1]Nirsa       |07:45:01 | 12-10-2026| manga ch2 (990005): page 6/18 (33%) 23s
-[1]Nirsa       |07:45:06 | 12-10-2026| manga ch2 (990005): page 7/18 (38%) 28s
-[1]Nirsa       |07:45:10 | 12-10-2026| manga ch2 (990005): page 8/18 (44%) 32s
-[1]Nirsa       |07:45:15 | 12-10-2026| manga ch2 (990005): page 9/18 (50%) 37s
-[1]Nirsa       |07:45:20 | 12-10-2026| manga ch2 (990005): page 10/18 (55%) 41s
-[1]Nirsa       |07:45:24 | 12-10-2026| manga ch2 (990005): page 11/18 (61%) 46s
-[1]Nirsa       |07:45:30 | 12-10-2026| manga ch2 (990005): page 12/18 (66%) 51s
-[1]Nirsa       |07:45:35 | 12-10-2026| manga ch2 (990005): page 13/18 (72%) 57s
-[1]Nirsa       |07:45:40 | 12-10-2026| manga ch2 (990005): page 14/18 (77%) 61s
-[1]Nirsa       |07:45:44 | 12-10-2026| manga ch2 (990005): page 15/18 (83%) 66s
-[1]Nirsa       |07:45:50 | 12-10-2026| manga ch2 (990005): page 16/18 (88%) 71s
-[1]Nirsa       |07:45:55 | 12-10-2026| manga ch2 (990005): page 17/18 (94%) 77s
-[1]Nirsa       |07:46:00 | 12-10-2026| manga ch2 (990005): page 18/18 (99%) 81s
-[1]Nirsa       |07:46:05 | 12-10-2026| manga ch2 (990005): COMPLETED
-[1]Nirsa       |07:46:08 | 12-10-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Nirsa       |07:46:14 | 12-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
-[1]Nirsa       |07:46:18 | 12-10-2026| manga ch3 (1980001): page 2/20 (10%) 5s
-[1]Nirsa       |07:46:23 | 12-10-2026| manga ch3 (1980001): page 3/20 (15%) 10s
-[1]Nirsa       |07:46:28 | 12-10-2026| manga ch3 (1980001): page 4/20 (20%) 14s
-[1]Nirsa       |07:46:33 | 12-10-2026| manga ch3 (1980001): page 5/20 (25%) 19s
-[1]Nirsa       |07:46:37 | 12-10-2026| manga ch3 (1980001): page 6/20 (30%) 24s
-[1]Nirsa       |07:46:42 | 12-10-2026| manga ch3 (1980001): page 7/20 (35%) 29s
-[1]Nirsa       |07:46:47 | 12-10-2026| manga ch3 (1980001): page 8/20 (40%) 33s
-[1]Nirsa       |07:46:51 | 12-10-2026| manga ch3 (1980001): page 9/20 (45%) 38s
-[1]Nirsa       |07:46:56 | 12-10-2026| manga ch3 (1980001): page 10/20 (50%) 43s
-[1]Nirsa       |07:47:01 | 12-10-2026| manga ch3 (1980001): page 11/20 (55%) 47s
-[1]Nirsa       |07:47:06 | 12-10-2026| manga ch3 (1980001): page 12/20 (60%) 53s
-[1]Nirsa       |07:47:11 | 12-10-2026| manga ch3 (1980001): page 13/20 (65%) 57s
-[1]Nirsa       |07:47:15 | 12-10-2026| manga ch3 (1980001): page 14/20 (70%) 62s
-[1]Nirsa       |07:47:20 | 12-10-2026| manga ch3 (1980001): page 15/20 (75%) 67s
-[1]Nirsa       |07:47:25 | 12-10-2026| manga ch3 (1980001): page 16/20 (80%) 71s
-[1]Nirsa       |07:47:29 | 12-10-2026| manga ch3 (1980001): page 17/20 (85%) 76s
-[1]Nirsa       |07:47:35 | 12-10-2026| manga ch3 (1980001): page 18/20 (90%) 81s
-[1]Nirsa       |07:47:40 | 12-10-2026| manga ch3 (1980001): page 19/20 (95%) 86s
-[1]Nirsa       |07:47:44 | 12-10-2026| manga ch3 (1980001): page 20/20 (99%) 91s
-[1]Nirsa       |07:47:50 | 12-10-2026| manga ch3 (1980001): COMPLETED
-[1]Nirsa       |07:47:53 | 12-10-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Nirsa       |07:47:59 | 12-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
-[1]Nirsa       |07:48:04 | 12-10-2026| manga ch1 (2100001): page 2/9 (22%) 5s
-[1]Nirsa       |07:48:08 | 12-10-2026| manga ch1 (2100001): page 3/9 (33%) 9s
-[1]Nirsa       |07:48:13 | 12-10-2026| manga ch1 (2100001): page 4/9 (44%) 14s
-[1]Nirsa       |07:48:18 | 12-10-2026| manga ch1 (2100001): page 5/9 (55%) 19s
-[1]Nirsa       |07:48:23 | 12-10-2026| manga ch1 (2100001): page 6/9 (66%) 24s
-[1]Nirsa       |07:48:27 | 12-10-2026| manga ch1 (2100001): page 7/9 (77%) 28s
-[1]Nirsa       |07:48:32 | 12-10-2026| manga ch1 (2100001): page 8/9 (88%) 33s
-[1]Nirsa       |07:48:37 | 12-10-2026| manga ch1 (2100001): page 9/9 (99%) 37s
-[1]Nirsa       |07:48:42 | 12-10-2026| manga ch1 (2100001): COMPLETED
-[1]Nirsa       |07:48:45 | 12-10-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Nirsa       |07:48:50 | 12-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
-[1]Nirsa       |07:48:55 | 12-10-2026| manga ch1 (2070001): page 2/10 (20%) 5s
-[1]Nirsa       |07:48:59 | 12-10-2026| manga ch1 (2070001): page 3/10 (30%) 9s
-[1]Nirsa       |07:49:04 | 12-10-2026| manga ch1 (2070001): page 4/10 (40%) 14s
-[1]Nirsa       |07:49:10 | 12-10-2026| manga ch1 (2070001): page 5/10 (50%) 19s
-[1]Nirsa       |07:49:15 | 12-10-2026| manga ch1 (2070001): page 6/10 (60%) 24s
-[1]Nirsa       |07:49:19 | 12-10-2026| manga ch1 (2070001): page 7/10 (70%) 29s
-[1]Nirsa       |07:49:24 | 12-10-2026| manga ch1 (2070001): page 8/10 (80%) 34s
-[1]Nirsa       |07:49:28 | 12-10-2026| manga ch1 (2070001): page 9/10 (90%) 38s
-[1]Nirsa       |07:49:33 | 12-10-2026| manga ch1 (2070001): page 10/10 (99%) 43s
-[1]Nirsa       |07:49:38 | 12-10-2026| manga ch1 (2070001): COMPLETED
-[1]Nirsa       |07:49:41 | 12-10-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Nirsa       |07:49:46 | 12-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
-[1]Nirsa       |07:49:51 | 12-10-2026| manga ch2 (2520001): page 2/11 (18%) 5s
-[1]Nirsa       |07:49:56 | 12-10-2026| manga ch2 (2520001): page 3/11 (27%) 9s
-[1]Nirsa       |07:50:01 | 12-10-2026| manga ch2 (2520001): page 4/11 (36%) 14s
-[1]Nirsa       |07:50:05 | 12-10-2026| manga ch2 (2520001): page 5/11 (45%) 19s
-[1]Nirsa       |07:50:10 | 12-10-2026| manga ch2 (2520001): page 6/11 (54%) 23s
-[1]Nirsa       |07:50:14 | 12-10-2026| manga ch2 (2520001): page 7/11 (63%) 28s
-[1]Nirsa       |07:50:20 | 12-10-2026| manga ch2 (2520001): page 8/11 (72%) 33s
-[1]Nirsa       |07:50:24 | 12-10-2026| manga ch2 (2520001): page 9/11 (81%) 38s
-[1]Nirsa       |07:50:29 | 12-10-2026| manga ch2 (2520001): page 10/11 (90%) 42s
-[1]Nirsa       |07:50:33 | 12-10-2026| manga ch2 (2520001): page 11/11 (99%) 47s
-[1]Nirsa       |07:50:38 | 12-10-2026| manga ch2 (2520001): COMPLETED
-[1]Nirsa       |07:50:41 | 12-10-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Nirsa       |07:50:47 | 12-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
-[1]Nirsa       |07:50:52 | 12-10-2026| manga ch3 (2550001): page 2/11 (18%) 5s
-[1]Nirsa       |07:50:56 | 12-10-2026| manga ch3 (2550001): page 3/11 (27%) 9s
-[1]Nirsa       |07:51:01 | 12-10-2026| manga ch3 (2550001): page 4/11 (36%) 14s
-[1]Nirsa       |07:51:06 | 12-10-2026| manga ch3 (2550001): page 5/11 (45%) 19s
-[1]Nirsa       |07:51:10 | 12-10-2026| manga ch3 (2550001): page 6/11 (54%) 23s
-[1]Nirsa       |07:51:15 | 12-10-2026| manga ch3 (2550001): page 7/11 (63%) 28s
-[1]Nirsa       |07:51:20 | 12-10-2026| manga ch3 (2550001): page 8/11 (72%) 33s
-[1]Nirsa       |07:51:26 | 12-10-2026| manga ch3 (2550001): page 9/11 (81%) 38s
-[1]Nirsa       |07:51:31 | 12-10-2026| manga ch3 (2550001): page 10/11 (90%) 43s
-[1]Nirsa       |07:51:36 | 12-10-2026| manga ch3 (2550001): page 11/11 (99%) 49s
-[1]Nirsa       |07:51:41 | 12-10-2026| manga ch3 (2550001): COMPLETED
+[1]Nirsa       |07:34:59 | 13-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nirsa menjalankan: Get Gift
-[1]Nirsa       |07:51:44 | 12-10-2026| gift: 3/3 belum diterima
-[1]Nirsa       |07:51:46 | 12-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
-[1]Nirsa       |07:51:49 | 12-10-2026| gift [2/3] Osshi animated stickers: OK
-[1]Nirsa       |07:51:53 | 12-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+[1]Nirsa       |07:34:59 | 13-10-2026| gift: 0/3 belum diterima
 --> [1]Nirsa menjalankan: Setup Profile
-[1]Nirsa       |07:51:55 | 12-10-2026| profile: bio="" fav=- rewardAt=-
-[1]Nirsa       |07:51:56 | 12-10-2026| profile: OK bio="https://x.com/znirsa" fav=kagura awarded=true +10pt
+[1]Nirsa       |07:35:00 | 13-10-2026| profile: bio="https://x.com/znirsa" fav=kagura rewardAt=1791791516
+[1]Nirsa       |07:35:00 | 13-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nirsa menjalankan: Bind Wallet
-[1]Nirsa       |07:51:57 | 12-10-2026| wallet: derivasi dari privateKeySolana -> 96bKZ9id79FD3tpCgaNYoNbYpwPMVPQv1LhtXUNsY65F (cek cocok dengan wallet kamu!)
-[1]Nirsa       |07:51:58 | 12-10-2026| wallet: /api/wallet OK (solana)
-[1]Nirsa       |07:52:00 | 12-10-2026| wallet: /api/sol-address OK
+[1]Nirsa       |07:35:00 | 13-10-2026| wallet: sudah terikat 96bKZ9id79... (solana)
 
 == RINGKASAN ==
-- Nirsa: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+20pt) | watch 3/3 completed | musik 3 trek ~659.2644s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
+- Nirsa: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
