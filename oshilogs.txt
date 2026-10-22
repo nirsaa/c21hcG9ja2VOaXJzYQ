@@ -12,153 +12,89 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nirsa =====
-[1]Nirsa       |09:07:41 | 21-10-2026| login OK @znirsa | score=1640 rank=4304
-[1]Nirsa       |09:07:41 | 21-10-2026| serverTime=2026-10-21T09:07:41.000Z local=2026-10-21T09:07:41.586Z
+[1]Nirsa       |09:10:23 | 22-10-2026| login OK @znirsa | score=1710 rank=4226
+[1]Nirsa       |09:10:23 | 22-10-2026| serverTime=2026-10-22T09:10:23.000Z local=2026-10-22T09:10:23.936Z
 --> [1]Nirsa menjalankan: Claim Daily
-[1]Nirsa       |09:07:42 | 21-10-2026| daily: OK +10 poin score=1650
---> [1]Nirsa menjalankan: Auto All Tasks (6 pending)
-[1]Nirsa       |09:07:45 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/znirsa/status/2112832756219446265
-[1]Nirsa       |09:07:45 | 21-10-2026| delay 10s...
-[1]Nirsa       |09:07:57 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/znirsa/status/2112832761958606691
-[1]Nirsa       |09:07:57 | 21-10-2026| delay 10s...
-[1]Nirsa       |09:08:09 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/znirsa/status/2112832800780437264
-[1]Nirsa       |09:08:09 | 21-10-2026| delay 10s...
-[1]Nirsa       |09:08:22 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/znirsa/status/2112832739138213080
-[1]Nirsa       |09:08:22 | 21-10-2026| delay 10s...
-[1]Nirsa       |09:08:34 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/znirsa/status/2112832860074473461
-[1]Nirsa       |09:08:34 | 21-10-2026| delay 10s...
-[1]Nirsa       |09:08:47 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
-[1]Nirsa       |09:08:47 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nirsa       |09:08:49 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/znirsa/status/2112833098657270392
+[1]Nirsa       |09:10:25 | 22-10-2026| daily: OK +10 poin score=1720
+--> [1]Nirsa menjalankan: Auto All Tasks (9 pending)
+[1]Nirsa       |09:10:27 | 22-10-2026| [1/9] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113195680261848323
+[1]Nirsa       |09:10:27 | 22-10-2026| delay 10s...
+[1]Nirsa       |09:10:38 | 22-10-2026| [2/9] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113195772381943793
+[1]Nirsa       |09:10:38 | 22-10-2026| delay 10s...
+[1]Nirsa       |09:10:50 | 22-10-2026| [3/9] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113196098737912270
+[1]Nirsa       |09:10:50 | 22-10-2026| delay 10s...
+[1]Nirsa       |09:11:03 | 22-10-2026| [4/9] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113195926850916432
+[1]Nirsa       |09:11:03 | 22-10-2026| delay 10s...
+[1]Nirsa       |09:11:15 | 22-10-2026| [5/9] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113196059317451948
+[1]Nirsa       |09:11:15 | 22-10-2026| delay 10s...
+[1]Nirsa       |09:11:27 | 22-10-2026| [6/9] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113196000516745682
+[1]Nirsa       |09:11:27 | 22-10-2026| delay 10s...
+[1]Nirsa       |09:11:39 | 22-10-2026| [7/9] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113196051526311885
+[1]Nirsa       |09:11:39 | 22-10-2026| delay 10s...
+[1]Nirsa       |09:11:51 | 22-10-2026| [8/9] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113196026358168594
+[1]Nirsa       |09:11:51 | 22-10-2026| delay 10s...
+[1]Nirsa       |09:12:03 | 22-10-2026| [9/9] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113196374484931771
+[1]Nirsa       |09:12:03 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nirsa       |09:12:05 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/znirsa/status/2113196073111766283
 --> [1]Nirsa menjalankan: Watch Anime
-[1]Nirsa       |09:08:50 | 21-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Nirsa       |09:08:50 | 21-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Nirsa       |09:08:52 | 21-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Nirsa       |09:08:58 | 21-10-2026| watch oshi-captains-hat: 6% (5.61/92.00s)
-[1]Nirsa       |09:09:05 | 21-10-2026| watch oshi-captains-hat: 12% (11.67/92.00s)
-[1]Nirsa       |09:09:11 | 21-10-2026| watch oshi-captains-hat: 18% (17.38/92.00s)
-[1]Nirsa       |09:09:18 | 21-10-2026| watch oshi-captains-hat: 25% (23.12/92.00s)
-[1]Nirsa       |09:09:26 | 21-10-2026| watch oshi-captains-hat: 32% (29.50/92.00s)
-[1]Nirsa       |09:09:32 | 21-10-2026| watch oshi-captains-hat: 38% (35.79/92.00s)
-[1]Nirsa       |09:09:38 | 21-10-2026| watch oshi-captains-hat: 45% (41.87/92.00s)
-[1]Nirsa       |09:09:44 | 21-10-2026| watch oshi-captains-hat: 51% (47.48/92.00s)
-[1]Nirsa       |09:09:51 | 21-10-2026| watch oshi-captains-hat: 57% (53.05/92.00s)
-[1]Nirsa       |09:09:58 | 21-10-2026| watch oshi-captains-hat: 64% (59.22/92.00s)
-[1]Nirsa       |09:10:04 | 21-10-2026| watch oshi-captains-hat: 70% (64.95/92.00s)
-[1]Nirsa       |09:10:10 | 21-10-2026| watch oshi-captains-hat: 76% (70.54/92.00s)
-[1]Nirsa       |09:10:17 | 21-10-2026| watch oshi-captains-hat: 82% (76.29/92.00s)
-[1]Nirsa       |09:10:23 | 21-10-2026| watch oshi-captains-hat: 89% (81.98/92.00s)
-[1]Nirsa       |09:10:30 | 21-10-2026| watch oshi-captains-hat: 95% (87.62/92.00s)
-[1]Nirsa       |09:10:30 | 21-10-2026| watch oshi-captains-hat: COMPLETED (87.62/92.00s)
-[1]Nirsa       |09:10:35 | 21-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Nirsa       |09:10:37 | 21-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
-[1]Nirsa       |09:10:43 | 21-10-2026| watch oshi-rainbow-star: 6% (5.59/86.00s)
-[1]Nirsa       |09:10:49 | 21-10-2026| watch oshi-rainbow-star: 13% (11.20/86.00s)
-[1]Nirsa       |09:10:56 | 21-10-2026| watch oshi-rainbow-star: 19% (16.90/86.00s)
-[1]Nirsa       |09:11:02 | 21-10-2026| watch oshi-rainbow-star: 26% (22.70/86.00s)
-[1]Nirsa       |09:11:09 | 21-10-2026| watch oshi-rainbow-star: 33% (28.66/86.00s)
-[1]Nirsa       |09:11:16 | 21-10-2026| watch oshi-rainbow-star: 40% (34.40/86.00s)
-[1]Nirsa       |09:11:22 | 21-10-2026| watch oshi-rainbow-star: 47% (40.47/86.00s)
-[1]Nirsa       |09:11:33 | 21-10-2026| watch oshi-rainbow-star: 54% (46.58/86.00s)
-[1]Nirsa       |09:11:39 | 21-10-2026| watch oshi-rainbow-star: 54% (46.58/86.00s)
-[1]Nirsa       |09:11:46 | 21-10-2026| watch oshi-rainbow-star: 60% (52.23/86.00s)
-[1]Nirsa       |09:11:53 | 21-10-2026| watch oshi-rainbow-star: 68% (58.51/86.00s)
-[1]Nirsa       |09:12:00 | 21-10-2026| watch oshi-rainbow-star: 75% (64.77/86.00s)
-[1]Nirsa       |09:12:06 | 21-10-2026| watch oshi-rainbow-star: 82% (70.57/86.00s)
-[1]Nirsa       |09:12:13 | 21-10-2026| watch oshi-rainbow-star: 88% (76.26/86.00s)
-[1]Nirsa       |09:12:19 | 21-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
-[1]Nirsa       |09:12:59 | 21-10-2026| watch oshi-rainbow-star: posisi mentok tanpa completed, stop
-[1]Nirsa       |09:13:04 | 21-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Nirsa       |09:13:08 | 21-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Nirsa       |09:13:14 | 21-10-2026| watch oshi-rainbow-lighthouse: 6% (5.92/87.00s)
-[1]Nirsa       |09:13:20 | 21-10-2026| watch oshi-rainbow-lighthouse: 13% (11.57/87.00s)
-[1]Nirsa       |09:13:27 | 21-10-2026| watch oshi-rainbow-lighthouse: 19% (17.33/87.00s)
-[1]Nirsa       |09:13:33 | 21-10-2026| watch oshi-rainbow-lighthouse: 26% (23.13/87.00s)
-[1]Nirsa       |09:13:40 | 21-10-2026| watch oshi-rainbow-lighthouse: 33% (28.77/87.00s)
-[1]Nirsa       |09:13:47 | 21-10-2026| watch oshi-rainbow-lighthouse: 40% (35.03/87.00s)
-[1]Nirsa       |09:13:53 | 21-10-2026| watch oshi-rainbow-lighthouse: 47% (41.20/87.00s)
-[1]Nirsa       |09:14:00 | 21-10-2026| watch oshi-rainbow-lighthouse: 54% (46.98/87.00s)
-[1]Nirsa       |09:14:06 | 21-10-2026| watch oshi-rainbow-lighthouse: 60% (52.58/87.00s)
-[1]Nirsa       |09:14:13 | 21-10-2026| watch oshi-rainbow-lighthouse: 67% (58.50/87.00s)
-[1]Nirsa       |09:14:19 | 21-10-2026| watch oshi-rainbow-lighthouse: 73% (64.32/87.00s)
-[1]Nirsa       |09:14:25 | 21-10-2026| watch oshi-rainbow-lighthouse: 80% (70.03/87.00s)
-[1]Nirsa       |09:14:32 | 21-10-2026| watch oshi-rainbow-lighthouse: 86% (75.64/87.00s)
-[1]Nirsa       |09:14:39 | 21-10-2026| watch oshi-rainbow-lighthouse: 94% (81.85/87.00s)
-[1]Nirsa       |09:14:39 | 21-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (81.85/87.00s)
-[1]Nirsa       |09:14:44 | 21-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Nirsa       |09:14:46 | 21-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Nirsa       |09:14:53 | 21-10-2026| watch bakeru-ikesou-jan-mv: 3% (5.47/181.00s)
-[1]Nirsa       |09:14:59 | 21-10-2026| watch bakeru-ikesou-jan-mv: 6% (11.58/181.00s)
-[1]Nirsa       |09:15:05 | 21-10-2026| watch bakeru-ikesou-jan-mv: 9% (17.36/181.00s)
-[1]Nirsa       |09:15:12 | 21-10-2026| watch bakeru-ikesou-jan-mv: 12% (23.04/181.00s)
-[1]Nirsa       |09:15:19 | 21-10-2026| watch bakeru-ikesou-jan-mv: 16% (29.09/181.00s)
-[1]Nirsa       |09:15:25 | 21-10-2026| watch bakeru-ikesou-jan-mv: 19% (34.99/181.00s)
-[1]Nirsa       |09:15:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 22% (40.81/181.00s)
-[1]Nirsa       |09:15:38 | 21-10-2026| watch bakeru-ikesou-jan-mv: 25% (46.83/181.00s)
-[1]Nirsa       |09:15:45 | 21-10-2026| watch bakeru-ikesou-jan-mv: 28% (52.44/181.00s)
-[1]Nirsa       |09:15:51 | 21-10-2026| watch bakeru-ikesou-jan-mv: 32% (58.66/181.00s)
-[1]Nirsa       |09:15:58 | 21-10-2026| watch bakeru-ikesou-jan-mv: 35% (64.35/181.00s)
-[1]Nirsa       |09:16:04 | 21-10-2026| watch bakeru-ikesou-jan-mv: 38% (70.01/181.00s)
-[1]Nirsa       |09:16:10 | 21-10-2026| watch bakeru-ikesou-jan-mv: 41% (75.68/181.00s)
-[1]Nirsa       |09:16:17 | 21-10-2026| watch bakeru-ikesou-jan-mv: 44% (81.32/181.00s)
-[1]Nirsa       |09:16:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: 48% (87.23/181.00s)
-[1]Nirsa       |09:16:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 51% (93.10/181.00s)
-[1]Nirsa       |09:16:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: 54% (99.38/181.00s)
-[1]Nirsa       |09:16:45 | 21-10-2026| watch bakeru-ikesou-jan-mv: 58% (105.58/181.00s)
-[1]Nirsa       |09:16:51 | 21-10-2026| watch bakeru-ikesou-jan-mv: 61% (111.79/181.00s)
-[1]Nirsa       |09:16:59 | 21-10-2026| watch bakeru-ikesou-jan-mv: 65% (118.19/181.00s)
-[1]Nirsa       |09:17:05 | 21-10-2026| watch bakeru-ikesou-jan-mv: 68% (124.48/181.00s)
-[1]Nirsa       |09:17:12 | 21-10-2026| watch bakeru-ikesou-jan-mv: 72% (130.72/181.00s)
-[1]Nirsa       |09:17:19 | 21-10-2026| watch bakeru-ikesou-jan-mv: 75% (136.97/181.00s)
-[1]Nirsa       |09:17:26 | 21-10-2026| watch bakeru-ikesou-jan-mv: 79% (143.23/181.00s)
-[1]Nirsa       |09:17:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 82% (149.40/181.00s)
-[1]Nirsa       |09:17:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: 85% (155.26/181.00s)
-[1]Nirsa       |09:17:45 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (161.15/181.00s)
-[1]Nirsa       |09:17:53 | 21-10-2026| watch bakeru-ikesou-jan-mv: 92% (166.85/181.00s)
-[1]Nirsa       |09:17:53 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (166.85/181.00s)
+[1]Nirsa       |09:12:06 | 22-10-2026| watch: 1 video belum completed: oshi-rainbow-star
+[1]Nirsa       |09:12:06 | 22-10-2026| watch [1/1] farming oshi-rainbow-star...
+[1]Nirsa       |09:12:07 | 22-10-2026| watch oshi-rainbow-star: mulai dari 0 (record 76.4s diabaikan)
+[1]Nirsa       |09:12:07 | 22-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
+[1]Nirsa       |09:12:14 | 22-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
+[1]Nirsa       |09:12:20 | 22-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
+[1]Nirsa       |09:12:26 | 22-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
+[1]Nirsa       |09:12:34 | 22-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
+[1]Nirsa       |09:12:40 | 22-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
+[1]Nirsa       |09:12:46 | 22-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
+[1]Nirsa       |09:12:54 | 22-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
+[1]Nirsa       |09:13:00 | 22-10-2026| watch oshi-rainbow-star: 89% (76.79/86.00s)
+[1]Nirsa       |09:13:06 | 22-10-2026| watch oshi-rainbow-star: 95% (82.30/86.00s)
+[1]Nirsa       |09:13:06 | 22-10-2026| watch oshi-rainbow-star: COMPLETED (82.30/86.00s)
 --> [1]Nirsa menjalankan: Read Article
-[1]Nirsa       |09:17:54 | 21-10-2026| news: 27/27 artikel selesai dibaca
-[1]Nirsa       |09:17:55 | 21-10-2026| mint eligibility: {"userId":"2010889205438922752","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@znirsa","status":"submitted","revision":"83440d99-038f-458e-950a-c631044e5cce","
-[1]Nirsa       |09:18:01 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Nirsa       |09:13:08 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Nirsa       |09:13:08 | 22-10-2026| mint eligibility: {"userId":"2010889205438922752","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@znirsa","status":"submitted","revision":"83440d99-038f-458e-950a-c631044e5cce","
+[1]Nirsa       |09:13:14 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Nirsa       |09:13:23 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Nirsa menjalankan: Quiz Anime
-[1]Nirsa       |09:18:04 | 21-10-2026| quiz ep1: sudah dijawab
-[1]Nirsa       |09:18:04 | 21-10-2026| quiz ep2: sudah dijawab
-[1]Nirsa       |09:18:04 | 21-10-2026| quiz ep3: sudah dijawab
-[1]Nirsa       |09:18:04 | 21-10-2026| quiz ep4: sudah dijawab
-[1]Nirsa       |09:18:04 | 21-10-2026| quiz ep5: sudah dijawab
-[1]Nirsa       |09:18:04 | 21-10-2026| quiz ep6: sudah dijawab
+[1]Nirsa       |09:13:25 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Nirsa       |09:13:25 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Nirsa       |09:13:25 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Nirsa       |09:13:25 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Nirsa       |09:13:25 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Nirsa       |09:13:25 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Nirsa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nirsa       |09:18:06 | 21-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nirsa       |09:18:07 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Nirsa       |09:18:07 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nirsa       |09:18:07 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nirsa       |09:13:27 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nirsa       |09:13:28 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Nirsa       |09:13:28 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nirsa       |09:13:28 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nirsa menjalankan: Claim Missions
-[1]Nirsa       |09:18:07 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Nirsa       |09:18:07 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nirsa       |09:18:07 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nirsa       |09:13:28 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Nirsa       |09:13:28 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nirsa       |09:13:28 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nirsa menjalankan: Check Eligibility
 
 --- eligibility [1]Nirsa ---
-  @znirsa | score=1640 rank=4304
-  tasks    [###################-] 74/80
+  @znirsa | score=1710 rank=4226
+  tasks    [##################--] 77/86
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 21/17
+  watch    [####################] 22/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nirsa menjalankan: Read Manga
-[1]Nirsa       |09:18:12 | 21-10-2026| manga: 0/13 chapter belum completed
+[1]Nirsa       |09:13:33 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nirsa menjalankan: Get Gift
-[1]Nirsa       |09:18:13 | 21-10-2026| gift: 0/4 belum diterima
+[1]Nirsa       |09:13:33 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Nirsa menjalankan: Setup Profile
-[1]Nirsa       |09:18:13 | 21-10-2026| profile: bio="https://x.com/znirsa" fav=kagura rewardAt=1791791516
-[1]Nirsa       |09:18:13 | 21-10-2026| profile: bonus sudah diklaim, skip
+[1]Nirsa       |09:13:34 | 22-10-2026| profile: bio="https://x.com/znirsa" fav=kagura rewardAt=1791791516
+[1]Nirsa       |09:13:34 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nirsa menjalankan: Bind Wallet
-[1]Nirsa       |09:18:14 | 21-10-2026| wallet: sudah terikat 96bKZ9id79... (solana)
+[1]Nirsa       |09:13:34 | 22-10-2026| wallet: sudah terikat 96bKZ9id79... (solana)
 
 == RINGKASAN ==
-- Nirsa: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 3/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Nirsa: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
