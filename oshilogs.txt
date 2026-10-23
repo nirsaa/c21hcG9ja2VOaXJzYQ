@@ -12,71 +12,55 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nirsa =====
-[1]Nirsa       |09:10:23 | 22-10-2026| login OK @znirsa | score=1710 rank=4226
-[1]Nirsa       |09:10:23 | 22-10-2026| serverTime=2026-10-22T09:10:23.000Z local=2026-10-22T09:10:23.936Z
+[1]Nirsa       |09:06:43 | 23-10-2026| login OK @znirsa | score=1810 rank=4069
+[1]Nirsa       |09:06:43 | 23-10-2026| serverTime=2026-10-23T09:06:42.000Z local=2026-10-23T09:06:43.071Z
 --> [1]Nirsa menjalankan: Claim Daily
-[1]Nirsa       |09:10:25 | 22-10-2026| daily: OK +10 poin score=1720
---> [1]Nirsa menjalankan: Auto All Tasks (9 pending)
-[1]Nirsa       |09:10:27 | 22-10-2026| [1/9] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113195680261848323
-[1]Nirsa       |09:10:27 | 22-10-2026| delay 10s...
-[1]Nirsa       |09:10:38 | 22-10-2026| [2/9] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113195772381943793
-[1]Nirsa       |09:10:38 | 22-10-2026| delay 10s...
-[1]Nirsa       |09:10:50 | 22-10-2026| [3/9] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113196098737912270
-[1]Nirsa       |09:10:50 | 22-10-2026| delay 10s...
-[1]Nirsa       |09:11:03 | 22-10-2026| [4/9] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113195926850916432
-[1]Nirsa       |09:11:03 | 22-10-2026| delay 10s...
-[1]Nirsa       |09:11:15 | 22-10-2026| [5/9] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113196059317451948
-[1]Nirsa       |09:11:15 | 22-10-2026| delay 10s...
-[1]Nirsa       |09:11:27 | 22-10-2026| [6/9] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113196000516745682
-[1]Nirsa       |09:11:27 | 22-10-2026| delay 10s...
-[1]Nirsa       |09:11:39 | 22-10-2026| [7/9] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113196051526311885
-[1]Nirsa       |09:11:39 | 22-10-2026| delay 10s...
-[1]Nirsa       |09:11:51 | 22-10-2026| [8/9] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113196026358168594
-[1]Nirsa       |09:11:51 | 22-10-2026| delay 10s...
-[1]Nirsa       |09:12:03 | 22-10-2026| [9/9] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znirsa/status/2113196374484931771
-[1]Nirsa       |09:12:03 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nirsa       |09:12:05 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/znirsa/status/2113196073111766283
+[1]Nirsa       |09:06:44 | 23-10-2026| daily: OK +10 poin score=1820
+--> [1]Nirsa menjalankan: Auto All Tasks (7 pending)
+[1]Nirsa       |09:06:47 | 23-10-2026| [1/7] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/znirsa/status/2113557130536002116
+[1]Nirsa       |09:06:47 | 23-10-2026| delay 10s...
+[1]Nirsa       |09:06:59 | 23-10-2026| [2/7] 8598d58b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/znirsa/status/2113557335061687896
+[1]Nirsa       |09:06:59 | 23-10-2026| delay 10s...
+[1]Nirsa       |09:07:11 | 23-10-2026| [3/7] 55d1cc44 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709
+[1]Nirsa       |09:07:11 | 23-10-2026| delay 10s...
+[1]Nirsa       |09:07:23 | 23-10-2026| [4/7] 007fb4bc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/znirsa/status/2113557323296889094
+[1]Nirsa       |09:07:23 | 23-10-2026| delay 10s...
+[1]Nirsa       |09:07:35 | 23-10-2026| [5/7] cd349eb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/znirsa/status/2113557453016672783
+[1]Nirsa       |09:07:35 | 23-10-2026| delay 10s...
+[1]Nirsa       |09:07:47 | 23-10-2026| [6/7] 2669d576 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/znirsa/status/2113557453853145297
+[1]Nirsa       |09:07:47 | 23-10-2026| delay 10s...
+[1]Nirsa       |09:08:00 | 23-10-2026| [7/7] 352bca6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/znirsa/status/2113557533735175730
+[1]Nirsa       |09:08:00 | 23-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nirsa       |09:08:02 | 23-10-2026| [1/1] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113277810857099 | proof=https://x.com/znirsa/status/2113557707407619945
 --> [1]Nirsa menjalankan: Watch Anime
-[1]Nirsa       |09:12:06 | 22-10-2026| watch: 1 video belum completed: oshi-rainbow-star
-[1]Nirsa       |09:12:06 | 22-10-2026| watch [1/1] farming oshi-rainbow-star...
-[1]Nirsa       |09:12:07 | 22-10-2026| watch oshi-rainbow-star: mulai dari 0 (record 76.4s diabaikan)
-[1]Nirsa       |09:12:07 | 22-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
-[1]Nirsa       |09:12:14 | 22-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
-[1]Nirsa       |09:12:20 | 22-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
-[1]Nirsa       |09:12:26 | 22-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
-[1]Nirsa       |09:12:34 | 22-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
-[1]Nirsa       |09:12:40 | 22-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
-[1]Nirsa       |09:12:46 | 22-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
-[1]Nirsa       |09:12:54 | 22-10-2026| watch oshi-rainbow-star: 88% (76.45/86.00s)
-[1]Nirsa       |09:13:00 | 22-10-2026| watch oshi-rainbow-star: 89% (76.79/86.00s)
-[1]Nirsa       |09:13:06 | 22-10-2026| watch oshi-rainbow-star: 95% (82.30/86.00s)
-[1]Nirsa       |09:13:06 | 22-10-2026| watch oshi-rainbow-star: COMPLETED (82.30/86.00s)
+[1]Nirsa       |09:08:03 | 23-10-2026| watch: semua video sudah completed
 --> [1]Nirsa menjalankan: Read Article
-[1]Nirsa       |09:13:08 | 22-10-2026| news: 27/27 artikel selesai dibaca
-[1]Nirsa       |09:13:08 | 22-10-2026| mint eligibility: {"userId":"2010889205438922752","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@znirsa","status":"submitted","revision":"83440d99-038f-458e-950a-c631044e5cce","
-[1]Nirsa       |09:13:14 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
-[1]Nirsa       |09:13:23 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Nirsa       |09:08:04 | 23-10-2026| news: 27/27 artikel selesai dibaca
+[1]Nirsa       |09:08:05 | 23-10-2026| mint eligibility: {"userId":"2010889205438922752","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@znirsa","status":"submitted","revision":"83440d99-038f-458e-950a-c631044e5cce","
+[1]Nirsa       |09:08:11 | 23-10-2026| news road-to-mint-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Nirsa       |09:08:20 | 23-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Nirsa       |09:08:28 | 23-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Nirsa menjalankan: Quiz Anime
-[1]Nirsa       |09:13:25 | 22-10-2026| quiz ep1: sudah dijawab
-[1]Nirsa       |09:13:25 | 22-10-2026| quiz ep2: sudah dijawab
-[1]Nirsa       |09:13:25 | 22-10-2026| quiz ep3: sudah dijawab
-[1]Nirsa       |09:13:25 | 22-10-2026| quiz ep4: sudah dijawab
-[1]Nirsa       |09:13:25 | 22-10-2026| quiz ep5: sudah dijawab
-[1]Nirsa       |09:13:25 | 22-10-2026| quiz ep6: sudah dijawab
+[1]Nirsa       |09:08:30 | 23-10-2026| quiz ep1: sudah dijawab
+[1]Nirsa       |09:08:30 | 23-10-2026| quiz ep2: sudah dijawab
+[1]Nirsa       |09:08:30 | 23-10-2026| quiz ep3: sudah dijawab
+[1]Nirsa       |09:08:30 | 23-10-2026| quiz ep4: sudah dijawab
+[1]Nirsa       |09:08:30 | 23-10-2026| quiz ep5: sudah dijawab
+[1]Nirsa       |09:08:30 | 23-10-2026| quiz ep6: sudah dijawab
 --> [1]Nirsa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nirsa       |09:13:27 | 22-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nirsa       |09:13:28 | 22-10-2026| mission music-listens-10: sudah diklaim
-[1]Nirsa       |09:13:28 | 22-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nirsa       |09:13:28 | 22-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nirsa       |09:08:32 | 23-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nirsa       |09:08:33 | 23-10-2026| mission music-listens-10: sudah diklaim
+[1]Nirsa       |09:08:33 | 23-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nirsa       |09:08:33 | 23-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nirsa menjalankan: Claim Missions
-[1]Nirsa       |09:13:28 | 22-10-2026| mission music-listens-10: sudah diklaim
-[1]Nirsa       |09:13:28 | 22-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nirsa       |09:13:28 | 22-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nirsa       |09:08:34 | 23-10-2026| mission music-listens-10: sudah diklaim
+[1]Nirsa       |09:08:34 | 23-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nirsa       |09:08:34 | 23-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nirsa menjalankan: Check Eligibility
 
 --- eligibility [1]Nirsa ---
-  @znirsa | score=1710 rank=4226
-  tasks    [##################--] 77/86
+  @znirsa | score=1810 rank=4069
+  tasks    [##############------] 15/22
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -87,14 +71,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nirsa menjalankan: Read Manga
-[1]Nirsa       |09:13:33 | 22-10-2026| manga: 0/13 chapter belum completed
+[1]Nirsa       |09:08:38 | 23-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nirsa menjalankan: Get Gift
-[1]Nirsa       |09:13:33 | 22-10-2026| gift: 0/4 belum diterima
+[1]Nirsa       |09:08:38 | 23-10-2026| gift: 0/4 belum diterima
 --> [1]Nirsa menjalankan: Setup Profile
-[1]Nirsa       |09:13:34 | 22-10-2026| profile: bio="https://x.com/znirsa" fav=kagura rewardAt=1791791516
-[1]Nirsa       |09:13:34 | 22-10-2026| profile: bonus sudah diklaim, skip
+[1]Nirsa       |09:08:39 | 23-10-2026| profile: bio="https://x.com/znirsa" fav=kagura rewardAt=1791791516
+[1]Nirsa       |09:08:39 | 23-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nirsa menjalankan: Bind Wallet
-[1]Nirsa       |09:13:34 | 22-10-2026| wallet: sudah terikat 96bKZ9id79... (solana)
+[1]Nirsa       |09:08:40 | 23-10-2026| wallet: sudah terikat 96bKZ9id79... (solana)
 
 == RINGKASAN ==
-- Nirsa: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Nirsa: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
